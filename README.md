@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-I'm QA Engineer with 6 years of extensive experience in a variety of testing types including Functional, UI, Smoke and Regression Testing. Performing manual and automation testing of the products in the SDLC life cycle. Excellent in understanding Business Requirements and translating them into comprehensive test plans. Skilled at analyzing Functional and Technical Specifications to ensure optimal test coverage. Possessing excellent problem-solving skills and well-developed time management and teamwork abilities. Able to work efficiently in a fast-paced environment.
+I'm a Software QA Engineer with 6 years of extensive experience in a variety of testing types including Functional, UI, Smoke and Regression Testing. Performing manual and automation testing of the products in the SDLC life cycle. Excellent in understanding Business Requirements and translating them into comprehensive test plans. Skilled at analyzing Functional and Technical Specifications to ensure optimal test coverage. Possessing excellent problem-solving skills and well-developed time management and teamwork abilities. Able to work efficiently in a fast-paced environment.
 
 ---
 
